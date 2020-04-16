@@ -18,3 +18,9 @@ h3 {
   color: #66BFBF;
   font-family: inherit;
 }
+
+p {
+  size: 5%;
+  color: #30475E
+  font-family: san-serif;
+}
