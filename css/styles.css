@@ -11,7 +11,7 @@ hr {
 
 h1 {
   color: #66BFBF;
-  font-family: cursive;
+  font-family: Georgia, serif;
 }
 
 h3 {
@@ -22,5 +22,5 @@ h3 {
 p {
   size: 5%;
   color: #30475E;
-  font-family: san-serif;
+  font-family: cursive;
 }
