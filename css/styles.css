@@ -42,7 +42,7 @@ p {
 /************************* CLASS SELECTORS ***********************/
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 50px;
   bottom: 300px;
 }
 
@@ -69,15 +69,14 @@ p {
 }
 
 .bottom-container {
-  position: relative;
   background-color: #66BFBF;
-  height: 150px;
-  margin: 0;
+  padding: 40px 0 10px;
 }
 
 .copywrite {
   color: white;
-  margin-top: 60px;
+  font-size: 0.75rem;
+  padding: 20px 0;
 }
 
 .device-image {
@@ -88,10 +87,12 @@ p {
 
 .footer-link {
   color: #11999E;
-  margin-right: 40px;
-  margin-left: 40px;
-  position: relative;
-  top: 50px;
+  margin: auto 40px;
+  padding: 20px 0;
+}
+
+.footer-link:hover {
+  color: white;
 }
 
 .moses-img {
@@ -110,6 +111,10 @@ p {
   line-height: 2;
 }
 
+.speech {
+  margin: 40px auto;
+}
+
 .top-container {
   background-color: #30475E;
   position: relative;
@@ -119,7 +124,7 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 400px;
+  right: 50px;
   top: 50px;
 }
 
