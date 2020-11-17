@@ -136,3 +136,7 @@ p {
 .web {
   text-decoration: underline;
 }
+
+.web-dev {
+  margin: 0 auto 30px auto;
+}
