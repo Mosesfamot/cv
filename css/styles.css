@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  margin: 30px auto 0 auto;
+  margin: 10px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 4rem;
   color: #66BFBF;
@@ -138,5 +138,5 @@ p {
 }
 
 .web-dev {
-  margin: 0 auto 30px auto;
+  margin: 0 auto 50px auto;
 }
