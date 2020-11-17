@@ -70,7 +70,8 @@ p {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 10px 0 5px;
+  padding: 10px 0 0;
+  margin-bottom: -15px;
 }
 
 .copywrite {
@@ -88,7 +89,7 @@ p {
 .footer-link {
   color: #11999E;
   margin: auto 40px;
-  padding: 20px 0;
+  padding: 10px 0;
 }
 
 .footer-link:hover {
