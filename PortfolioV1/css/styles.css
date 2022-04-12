@@ -1,0 +1,143 @@
+/************************* TAG SELECTORS ***********************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.9rem;
+  color: #66BFBF;
+  font-weight: bolder;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+  margin: 50px auto;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 8px 0 0;
+  color: #DBDBDB;
+  width: 10%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+  font-size: 16px;
+}
+
+/************************* CLASS SELECTORS ***********************/
+.bottom-cloud {
+  position: absolute;
+  left: 40px;
+  bottom: 100px;
+}
+
+.btn {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  border: none;
+  color: white;
+  background-color: #11999E;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #66BFBF;
+}
+
+.bull-bear-image {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 10px 0 0;
+  margin-bottom: -15px;
+}
+
+.copywrite {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.device-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+  margin: auto 40px;
+  padding: 10px 0;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.moses-img {
+  width: 15%;
+}
+
+.mountain {
+  width: 50%;
+  text-align: center;
+}
+
+.middle-container {
+  margin: 0;
+  padding: 25px;
+}
+
+.skill-row {
+  width: 100%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.speech {
+  margin: 40px auto;
+}
+
+.top-container {
+  background-color: #30475E;
+  position: relative;
+  padding-top: 100px;
+  margin: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 40px;
+  top: 40px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.web-dev {
+  margin: 0 auto 50px auto;
+}
